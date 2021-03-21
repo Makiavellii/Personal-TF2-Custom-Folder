@@ -1,5 +1,5 @@
 # Personal-TF2-Config
-Github repo to house my personal TF2 Config.
+Github repo to house my personal TF2 Config. Download at your own risk. I can't help you if it breaks your game.
 
 # Binds
 **E** - Move Forward  
