@@ -21,10 +21,12 @@ HUD is a stripped down version of broesel HUD which has a bunch of things remove
 # Settings
 **MOUSE** - Glorious Model O-  
 **MOUSEPAD** - CMSTORM Swift-RX XL  
-**DPI** - 800  
+**DPI** - 1,600  
 **POLLING RATE** - 1000hz  
 **WINDOWS SENSITIVITY** - 6/11  
 **IN GAME SENSITIVITY** - 0.57   
 **EDPI** - 456 (dpi * ingame)  
 **DISTANCE** - 2.9feet/360 | 35.8in/360 | 91.14cm/360  
-**ZOOM SENSITIVITY RATIO** - 1
+**ZOOM SENSITIVITY RATIO** - 1  
+
+I use the [https://github.com/a1xd/rawaccel](raw accel) driver to make 1,600 DPI feel like 800. That way I get the benefits of 1,600 DPI with the same feeling as 800 DPI.
