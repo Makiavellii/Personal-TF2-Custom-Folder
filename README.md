@@ -3,6 +3,9 @@ Github repo to house my personal TF2 custom folder.
 
 HUD is a stripped down version of broesel HUD which has a bunch of things removed which cause lag/stutters.
 
+# Launch Options
+-full -width 1920 -height 1080 -freq 144 -console -novid -nojoy -reuse -nosteamcontroller -nohltv -particles 1 -precachefontchars -r_emulate_gl  
+
 # Binds
 **E** - Move Forward  
 **D** - Move Backwards  
