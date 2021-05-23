@@ -24,10 +24,10 @@ HUD is a stripped down version of broesel HUD which has a bunch of things remove
 # Settings
 **MOUSE** - Glorious Model O-  
 **MOUSEPAD** - CMSTORM Swift-RX XL  
-**DPI** - 1,600  
+**DPI** - 1,800  
 **POLLING RATE** - 1000hz  
 **WINDOWS SENSITIVITY** - 6/11  
-**IN GAME SENSITIVITY** - 0.285  
+**IN GAME SENSITIVITY** - 0.253  
 **EDPI** - 456 (dpi * ingame)  
 **DISTANCE** - 2.9feet/360 | 35.8in/360 | 91.14cm/360  
 **ZOOM SENSITIVITY RATIO** - 1  
