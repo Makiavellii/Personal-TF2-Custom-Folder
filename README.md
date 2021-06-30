@@ -27,7 +27,7 @@ HUD is a modified version of a HUD that nubbi was making.
 **DPI** - 800  
 **POLLING RATE** - 1000hz  
 **WINDOWS SENSITIVITY** - 6/11  
-**IN GAME SENSITIVITY** - 1.73 
-**EDPI** - 456 (dpi * ingame)  
+**IN GAME SENSITIVITY** - 1.73  
+**EDPI** - 1,384 (dpi * ingame)  
 **DISTANCE** - 30cm/360 | 11.8in/360  
 **ZOOM SENSITIVITY RATIO** - 1  
