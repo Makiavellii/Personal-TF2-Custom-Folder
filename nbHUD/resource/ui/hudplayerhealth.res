@@ -179,6 +179,28 @@
 
 		"pin_to_sibling"							"LowLabel"
 	}
+
+	"TeamIndicator"
+	{
+		"ControlName"				"CTFImagePanel"
+		"fieldName"					"TeamIndicator"
+		"xpos"						"28"
+		"ypos"						"-52"
+		"zpos"						"1"
+		"wide"						"59"
+		"tall"						"1"
+		"autoResize"				"0"
+		"pinCorner"					"0"
+		"visible"					"1"
+		"enabled"					"1"
+		"image"						"replay/thumbnails/panels/Panel_Blank"
+		"scaleImage"				"1"
+		"teambg_1"					"replay/thumbnails/panels/Panel_Blank"
+		"teambg_2"					"replay/thumbnails/panels/Panel_Red"
+		"teambg_3"					"replay/thumbnails/panels/Panel_Blue"
+		
+		"pin_to_sibling"			"HealthAnchor"
+	}
 	
 	"PlayerStatusAnchor"
 	{

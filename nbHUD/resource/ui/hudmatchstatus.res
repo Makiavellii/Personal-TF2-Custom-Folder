@@ -199,7 +199,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"TimePanelValue"
-			"font"									"HandelGothicBT6AA" //m0refont16
+			"font"									"Size 16" //m0refont16
 			"fgcolor"								"255 255 255 255"
 			"xpos"									"26" //26
 			"ypos"									"2" //2

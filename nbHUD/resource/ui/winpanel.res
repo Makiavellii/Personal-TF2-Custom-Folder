@@ -96,7 +96,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"BlueTeamLabel"
-			"font"									"WinPanelMedium"
+			"font"									"Size 22"
 			"fgcolor"								"88 133 162 255"
 			"labelText"								"%blueteamname%"
 			"textAlignment"							"west"
@@ -117,7 +117,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"BlueTeamLabel2"
-			"font"									"WinPanelMedium"
+			"font"									"Size 22"
 			"fgcolor"								"0 0 0 255"
 			"labelText"								"%blueteamname%"
 			"textAlignment"							"west"
@@ -138,7 +138,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"BlueTeamScore"
-			"font"									"WinPanelBig"
+			"font"									"Size 45"
 			"fgcolor"								"88 133 162 255"
 			"labelText"								"%blueteamscore%"
 			"textAlignment"							"east"
@@ -161,7 +161,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"BlueTeamScore2"
-			"font"									"WinPanelBig"
+			"font"									"Size 45"
 			"fgcolor"								"0 0 0 255"
 			"labelText"								"%blueteamscore%"
 			"textAlignment"							"east"
@@ -182,7 +182,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"RedTeamLabel"
-			"font"									"WinPanelMedium"
+			"font"									"Size 22"
 			"fgcolor"								"184 56 59 255"
 			"labelText"								"%redteamname%"
 			"textAlignment"							"east"
@@ -205,7 +205,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"RedTeamLabel2"
-			"font"									"WinPanelMedium"
+			"font"									"Size 22"
 			"fgcolor"								"0 0 0 255"
 			"labelText"								"%redteamname%"
 			"textAlignment"							"east"
@@ -226,7 +226,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"RedTeamScore"
-			"font"									"WinPanelBig"
+			"font"									"Size 45"
 			"fgcolor"								"184 56 59 255"
 			"labelText"								"%redteamscore%"
 			"textAlignment"							"west"
@@ -247,7 +247,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"RedTeamScore2"
-			"font"									"WinPanelBig"
+			"font"									"Size 45"
 			"fgcolor"								"0 0 0 255"
 			"labelText"								"%redteamscore%"
 			"textAlignment"							"west"
@@ -381,7 +381,7 @@
 	{	
 		"ControlName"								"CExLabel"
 		"fieldName"	  								"WinningTeamLabel"
-		"font"			    						"WinPanelLarge"
+		"font"			    						"Size 14"
 		"fgcolor"       							"White"
 		"xpos"		    							"c-98"
 		"ypos"		    							"130"
@@ -403,7 +403,7 @@
 	{	
 		"ControlName"								"CExLabel"
 		"fieldName"									"WinningTeamLabelDropshadow"
-		"font"			    						"WinPanelLarge"
+		"font"			    						"Size 14"
 		"fgcolor"      								"Black"
 		"xpos"		    							"-1"
 		"ypos"		    							"-1"
@@ -426,7 +426,7 @@
 	{	
 		"ControlName"								"CExLabel"
 		"fieldName"									"AdvancingTeamLabel"
-		"font"			    						"WinPanelLarge"
+		"font"			    						"Size 14"
 		"fgcolor"       							"White"
 		"xpos"		    							"c0"
 		"ypos"		    							"150"
@@ -448,7 +448,7 @@
 	{	
 		"ControlName"								"CExLabel"
 		"fieldName"									"AdvancingTeamLabelDropshadow"
-		"font"			    						"WinPanelLarge"
+		"font"			    						"Size 14"
 		"fgcolor"       							"Black"
 		"xpos"		    							"-1"
 		"ypos"		    							"-1"

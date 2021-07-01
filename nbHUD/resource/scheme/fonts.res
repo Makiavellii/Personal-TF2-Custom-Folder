@@ -1249,7 +1249,7 @@ Scheme
 				"name"			"RenogareSoft-Regular"
 				"tall"			"18"
 				"additive"  	"0"
-				"antialias"		"1"
+				"antialias"		"0"
 				"outline"		"1"
 			}
 		}
@@ -1492,6 +1492,17 @@ Scheme
 			{
 				"name"			"RenogareSoft-Regular"
 				"tall"			"44"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Size 45"
+		{
+			"1"
+			{
+				"name"			"RenogareSoft-Regular"
+				"tall"			"45"
 				"additive"  	"0"
 				"antialias"		"1"
 			}
