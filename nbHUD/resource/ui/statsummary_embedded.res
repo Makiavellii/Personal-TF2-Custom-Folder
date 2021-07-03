@@ -200,7 +200,7 @@
 				"tabPosition"		"0"
 				"paintbackground"	"0"
 				"paintborder"		"1"
-				"border"			"OrangeTransparent70"
+				"border"			"BlueTransparent50"
 			}
 			
 			"ClassCombo"
@@ -276,7 +276,7 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"AllCaps"				"1"
-			"border"				"OrangeTransparent70"
+			"border"				"BlueTransparent50"
 		}
 		"ClassBarBG1A"
 		{
@@ -406,7 +406,7 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"AllCaps"				"1"
-			"border"				"OrangeTransparent70"
+			"border"				"BlueTransparent50"
 		}
 		
 		"ClassBarBG2A"
@@ -538,7 +538,7 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"AllCaps"				"1"
-			"border"				"OrangeTransparent70"
+			"border"				"BlueTransparent50"
 		}
 		
 		"ClassBarBG3A"
@@ -670,7 +670,7 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"AllCaps"				"1"
-			"border"				"OrangeTransparent70"
+			"border"				"BlueTransparent50"
 		}
 		
 		"ClassBarBG4A"
@@ -802,7 +802,7 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"AllCaps"				"1"
-			"border"				"OrangeTransparent70"
+			"border"				"BlueTransparent50"
 		}
 		
 		"ClassBarBG5A"
@@ -934,7 +934,7 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"AllCaps"				"1"
-			"border"				"OrangeTransparent70"
+			"border"				"BlueTransparent50"
 		}
 		
 		"ClassBarBG6A"
@@ -1066,7 +1066,7 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"AllCaps"				"1"
-			"border"				"OrangeTransparent70"
+			"border"				"BlueTransparent50"
 		}
 		
 		"ClassBarBG7A"
@@ -1198,7 +1198,7 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"AllCaps"				"1"
-			"border"				"OrangeTransparent70"
+			"border"				"BlueTransparent50"
 		}
 		
 		"ClassBarBG8A"
@@ -1330,7 +1330,7 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"AllCaps"				"1"
-			"border"				"OrangeTransparent70"
+			"border"				"BlueTransparent50"
 		}
 		
 		"ClassBarBG9A"
@@ -2134,7 +2134,7 @@
 		"paintbackground" 			"0"
 		
 		"border_default"			"BlueTransparent70"
-		"border_armed"				"OrangeTransparent70"
+		"border_armed"				"BlueTransparent50"
 	}
 	
 	

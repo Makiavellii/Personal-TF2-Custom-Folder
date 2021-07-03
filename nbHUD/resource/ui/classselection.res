@@ -73,7 +73,7 @@
 		"textAlignment"								"center"
 		"Command"									"joinclass scout"
 		"Default"									"0"
-		"font"										"default"
+		"font"										"Size 14"
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
 		"armedFgColor_override" 					"Class Selection"
@@ -117,7 +117,7 @@
 		"textAlignment"								"center"
 		"Command"									"joinclass soldier"
 		"Default"									"0"
-		"font"										"default"
+		"font"										"Size 14"
 			
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
@@ -162,7 +162,7 @@
 		"textAlignment"								"center"
 		"Command"									"joinclass pyro"
 		"Default"									"0"
-		"font"										"default"
+		"font"										"Size 14"
 			
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
@@ -209,7 +209,7 @@
 		"textAlignment"								"center"
 		"Command"									"joinclass demoman"
 		"Default"									"0"
-		"font"										"default"
+		"font"										"Size 14"
 			
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
@@ -254,7 +254,7 @@
 		"textAlignment"								"center"
 		"Command"									"joinclass heavyweapons"
 		"Default"									"0"
-		"font"										"default"
+		"font"										"Size 14"
 			
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
@@ -299,7 +299,7 @@
 		"textAlignment"								"center"
 		"Command"									"joinclass engineer"
 		"Default"									"0"
-		"font"										"default"
+		"font"										"Size 14"
 			
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
@@ -344,7 +344,7 @@
 		"textAlignment"								"center"
 		"Command"									"joinclass medic"
 		"Default"									"0"
-		"font"										"default"
+		"font"										"Size 14"
 			
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
@@ -389,7 +389,7 @@
 		"textAlignment"								"center"
 		"Command"									"joinclass sniper"
 		"Default"									"0"
-		"font"										"default"
+		"font"										"Size 14"
 
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"
@@ -436,7 +436,7 @@
 		"textAlignment"								"center"
 		"Command"									"joinclass spy"
 		"Default"									"0"
-		"font"										"default"
+		"font"										"Size 14"
 			
 		"fgcolor"									"White"
 		"defaultFgColor_override" 					"White"

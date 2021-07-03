@@ -2,6 +2,30 @@ Scheme
 {
 	Fonts
 	{
+
+		"MatchPlayerName"
+		{
+			"1"
+			{
+				"name"		"Cerbetica_edited"
+				"tall"		"8"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"MatchPlayerDeath"
+		{
+			"1"
+			{
+				"name"		"Cerbetica_edited"
+				"tall"		"14"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+
 		"m0refont10"
 		{
 			"1"
@@ -1052,6 +1076,17 @@ Scheme
 				"additive"									"0"
 				"antialias" 								"1"
 				"outline"									"1"
+			}
+		}
+
+		"Size 6"
+		{
+			"1"
+			{
+				"name"			"RenogareSoft-Regular"
+				"tall"			"6"
+				"additive"		"0"
+				"antialias"		"1"
 			}
 		}
 		
@@ -4546,6 +4581,12 @@ Scheme
 		{
 			"font" 		"resource/fonts/Harabara.ttf"
 			"name" 		"Harabara Bold"
+		}
+
+		"21"
+		{
+			"font" "resource/fonts/Cerbetica_edited.ttf"
+			"name" "Cerbetica_edited"
 		}
 	}
 }

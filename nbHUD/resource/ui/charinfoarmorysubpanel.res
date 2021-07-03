@@ -197,8 +197,8 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
 		"pin_to_sibling" 				"ItemsBG"
 		"pin_corner_to_sibling" 		"PIN_CENTER_RIGHT"
@@ -269,8 +269,8 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"Blueransparent70"
 		
 		"pin_to_sibling" 				"ItemsBG"
 		"pin_corner_to_sibling" 		"PIN_CENTER_LEFT"
@@ -473,8 +473,8 @@
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
 		"defaultFgColor_override" 		"White"
 		"armedFgColor_override" 		"White"
@@ -510,8 +510,8 @@
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
 		"defaultFgColor_override" 		"White"
 		"armedFgColor_override" 		"White"
@@ -549,8 +549,8 @@
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
 		"defaultFgColor_override" 		"White"
 		"armedFgColor_override" 		"White"

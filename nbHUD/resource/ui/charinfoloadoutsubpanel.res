@@ -40,7 +40,7 @@
 		"class_distance_min"			"7"
 		"class_distance_max"			"100"
 
-		"itemcountcolor"				"OrangeLight"
+		"itemcountcolor"				"Blue"
 		"itemcountcolor_noitems"		"117 107 94 255"
 	}
 	
@@ -78,8 +78,8 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
 		"pin_to_sibling" 				"SoldierCustom"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
@@ -154,8 +154,8 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
 		"pin_to_sibling" 				"PyroCustom"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
@@ -230,8 +230,8 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
 		"pin_to_sibling" 				"DemomanCustom"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
@@ -306,8 +306,8 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 
 		"pin_to_sibling" 				"CustomHeavy"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
@@ -382,8 +382,8 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
 		"border_default"				"BlueTransparent70"
 		"border_armed"					"OrangeTransparent70"
@@ -457,8 +457,8 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
 		"pin_to_sibling" 				"CustomHeavy"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
@@ -533,8 +533,8 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
 		"pin_to_sibling" 				"EngineerCustom"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
@@ -609,8 +609,8 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
 		"pin_to_sibling" 				"MedicCustom"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
@@ -685,8 +685,8 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
 		"pin_to_sibling" 				"SniperCustom"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
@@ -777,8 +777,8 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
 		"pin_to_sibling" 				"Crafting"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
@@ -848,8 +848,8 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
 		"pin_to_sibling" 				"Armory"
 		"pin_corner_to_sibling" 		"PIN_TOPRIGHT"
@@ -919,11 +919,11 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 	}
 	
 	"ArmoryShadow"
@@ -989,11 +989,11 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
 		"pin_to_sibling" 				"Armory"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
@@ -1063,11 +1063,11 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 		
 		"pin_to_sibling" 				"Trade"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
@@ -1274,8 +1274,8 @@
 		
 		"paintbackground" 				"0"
 		
-		"border_default"				"BlueTransparent70"
-		"border_armed"					"OrangeTransparent70"
+		"border_default"				"BlueTransparent50"
+		"border_armed"					"BlueTransparent70"
 	}
 	
 	"StartExplanation"
@@ -1388,7 +1388,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"OrangeLight"
+			"fgcolor_override" 			"Blue"
 		}
 		
 		"NextButton"
@@ -1419,8 +1419,8 @@
 			"paintbackground"			"0"
 			
 			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"armedFgColor_override" 	"Blue"
+			"depressedFgColor_override" "Blue"
 		}		
 	}	
 	
@@ -1546,8 +1546,8 @@
 			"paintbackground"			"0"
 			
 			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"armedFgColor_override" 	"Blue"
+			"depressedFgColor_override" "Blue"
 		}
 		
 		"PositionLabel"
@@ -1566,7 +1566,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"OrangeLight"
+			"fgcolor_override" 			"Blue"
 		}
 		
 		"NextButton"
@@ -1597,8 +1597,8 @@
 			"paintbackground"			"0"
 			
 			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"armedFgColor_override" 	"Blue"
+			"depressedFgColor_override" "Blue"
 		}
 	}
 	
@@ -1724,8 +1724,8 @@
 			"paintbackground"			"0"
 			
 			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"armedFgColor_override" 	"Blue"
+			"depressedFgColor_override" "Blue"
 		}
 		
 		"PositionLabel"
@@ -1744,7 +1744,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"OrangeLight"
+			"fgcolor_override" 			"Blue"
 		}
 		
 		"NextButton"
@@ -1775,8 +1775,8 @@
 			"paintbackground"			"0"
 			
 			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"armedFgColor_override" 	"Blue"
+			"depressedFgColor_override" "Blue"
 		}
 	}	
 	
@@ -1902,8 +1902,8 @@
 			"paintbackground"			"0"
 			
 			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"armedFgColor_override" 	"Blue"
+			"depressedFgColor_override" "Blue"
 		}
 		
 		"PositionLabel"
@@ -1922,7 +1922,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"OrangeLight"
+			"fgcolor_override" 			"Blue"
 		}
 		
 		"NextButton"
@@ -1953,8 +1953,8 @@
 			"paintbackground"			"0"
 			
 			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"armedFgColor_override" 	"Blue"
+			"depressedFgColor_override" "Blue"
 		}
 	}
 	
@@ -2080,8 +2080,8 @@
 			"paintbackground"			"0"
 			
 			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"armedFgColor_override" 	"Blue"
+			"depressedFgColor_override" "Blue"
 		}
 		
 		"PositionLabel"
@@ -2100,7 +2100,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"OrangeLight"
+			"fgcolor_override" 			"Blue"
 		}
 		
 		"NextButton"
@@ -2131,8 +2131,8 @@
 			"paintbackground"			"0"
 			
 			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"armedFgColor_override" 	"Blue"
+			"depressedFgColor_override" "Blue"
 		}
 	}
 
@@ -2258,8 +2258,8 @@
 			"paintbackground"			"0"
 			
 			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"armedFgColor_override" 	"Blue"
+			"depressedFgColor_override" "Blue"
 		}
 		
 		"PositionLabel"
@@ -2278,7 +2278,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"OrangeLight"
+			"fgcolor_override" 			"Blue"
 		}
 		
 		"NextButton"
@@ -2309,8 +2309,8 @@
 			"paintbackground"			"0"
 			
 			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"armedFgColor_override" 	"Blue"
+			"depressedFgColor_override" "Blue"
 		}
 	}
 	
@@ -2435,8 +2435,8 @@
 			"paintbackground"			"0"
 			
 			"defaultFgColor_override" 	"BlueLight"
-			"armedFgColor_override" 	"OrangeLight"
-			"depressedFgColor_override" "OrangeLight"
+			"armedFgColor_override" 	"Blue"
+			"depressedFgColor_override" "Blue"
 		}
 		
 		"PositionLabel"
@@ -2455,7 +2455,7 @@
 			"pinCorner"					"0"
 			"visible"					"1"
 			"enabled"					"1"
-			"fgcolor_override" 			"OrangeLight"
+			"fgcolor_override" 			"Blue"
 		}
 	}
 	

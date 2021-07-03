@@ -144,8 +144,8 @@
 		
 		"paintbackground" 					"0"
 		
-		"border_default"					"BlueTransparent70"
-		"border_armed"						"OrangeTransparent70"
+		"border_default"					"BlueTransparent50"
+		"border_armed"						"BlueTransparent70"
 	}
 	
 	"CloseButton"
@@ -176,8 +176,8 @@
 		
 		"paintbackground" 					"0"
 		
-		"border_default"					"BlueTransparent70"
-		"border_armed"						"OrangeTransparent70"
+		"border_default"					"BlueTransparent50"
+		"border_armed"						"BlueTransparent70"
 	}
 	
 	"NotificationsPresentPanel"

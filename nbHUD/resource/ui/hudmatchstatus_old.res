@@ -263,14 +263,14 @@
 				"ControlName"						"CExLabel"
 				"fieldName"							"playername"
 				"font"								"DefaultVerySmall"
-				"xpos"								"9999"
+				"xpos"								"5"
 				"ypos"								"24"
 				"zpos"								"5"
 				"wide"								"50"
 				"tall"								"8"
 				"autoResize"						"0"
 				"pinCorner"							"0"
-				"visible"							"0"
+				"visible"							"1"
 			}
 
 			"classimage"

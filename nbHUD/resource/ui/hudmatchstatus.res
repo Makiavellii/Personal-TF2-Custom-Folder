@@ -202,7 +202,7 @@
 			"font"									"Size 16" //m0refont16
 			"fgcolor"								"255 255 255 255"
 			"xpos"									"26" //26
-			"ypos"									"2" //2
+			"ypos"									"3" //2
 			"zpos"									"3" //3
 			"wide"									"50" //50
 			"tall"									"15" //15
@@ -242,7 +242,7 @@
 		{
 			"visible"								"0"
 			"wide"									"25"
-			"tall"									"25"
+			"tall"									"50"
 			"zpos"									"1"
 
 			"color_portrait_bg_red"					"189 59 61 200"
@@ -256,6 +256,23 @@
 			"percentage_health_low"					"0.33"
 			"color_portrait_blend_dead_red"			"255 255 255 255"
 			"color_portrait_blend_dead_blue" 		"255 255 255 255"
+
+			"playername"
+			{
+				"ControlName"	"CExLabel"
+				"fieldName"		"playername"
+				"font"			"MatchPlayerName"
+				"xpos"			"1"
+				"ypos"			"17"
+				"zpos"			"8"
+				"wide"			"20"
+				"tall"			"8"
+				"autoResize"	"0"
+				"pinCorner"		"0"
+				"enabled"		"1"
+				"visible"		"1"
+				"labelText"		"%playername%"
+			}
 			
 			"classimage"
 			{
@@ -370,18 +387,6 @@
 				"bgcolor_override"					"0 0 0 85"
 			}
 			
-			
-			
-			
-			"playername"
-			{
-				"ControlName"						"CExLabel"
-				"fieldName"							"playername"
-				"wide"								"0"
-				"tall"								"0"
-				"visible"							"0"
-				"enabled"							"0"
-			}
 			"ReadyBG"
 			{
 				"ControlName"						"ScalableImagePanel"

@@ -41,7 +41,7 @@ Scheme
 		"Last Damage Done"						"255 255 255 255"
 
 		"Menu Labels"							"85 95 190 255"
-		"Class Selection"						"46 224 180 255"
+		"Class Selection"						"44 117 255 255"
 		
 		"Shadows"								"0 0 0 200"
 		"Silver"                                "255 255 255 75"

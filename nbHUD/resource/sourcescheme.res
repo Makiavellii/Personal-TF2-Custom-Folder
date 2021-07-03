@@ -137,7 +137,7 @@ Scheme
 		Panel.FgColor					"DullWhite" 
 		Panel.BgColor					"0 0 0 0"
 
-		ProgressBar.FgColor				"249 192 216 255"
+		ProgressBar.FgColor				"0 111 255 255"
 		ProgressBar.BgColor				"TransparentBlack"
 
 		PropertySheet.TextColor				"white"
