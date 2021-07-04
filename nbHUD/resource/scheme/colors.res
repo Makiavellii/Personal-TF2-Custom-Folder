@@ -265,7 +265,7 @@ Scheme
 		"QualityColorrarity3"					"204 204 250 255"
 		"QualityColorrarity4"					"134 80 172 255"
 		"QualityColorVintage"					"71 98 145 255"
-		"QualityColorUnique"					"255 240 130 255"
+		"QualityColorUnique"					"255 180 0 255"
 		"QualityColorCommunity"					"112 176 74 255"
 		"QualityColorDeveloper"					"165 15 121 255"
 		"QualityColorSelfMade"					"112 176 74 255"

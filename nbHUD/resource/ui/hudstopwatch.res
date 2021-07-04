@@ -1,46 +1,27 @@
 "Resource/UI/HudStopWatch.res"
 {
-	"HudStopWatchBG"
+	"Background"
 	{
-		"ControlName"								"ImagePanel"
-		"fieldName"									"HudStopWatchBG"
-		"wide"										"0"
-		"tall"										"0"
-		"visible"									"1"
-		"enabled"									"1"
-	}
-	
-	"HudStopWatchBGWhite"
-	{
-		"ControlName"								"ImagePanel"
-		"fieldName"									"HudStopWatchBGWhite"
-		"xpos"										"123"
+		"ControlName"								"EditablePanel"
+		"fieldname"									"Background"
+		"xpos"										"cs-0.5+50"
 		"ypos"										"0"
-		"zpos"										"-1"
-		"wide"										"2"
-		"tall"										"12"
-		"autoResize"								"0"
-		"pinCorner"									"0"
+		"wide"										"45"
+		"tall"										"19"
 		"visible"									"1"
 		"enabled"									"1"
-		"fillcolor" 								"White"
+		"paintbackground"							"1"
+		"paintbackgroundtype"						"0"
+		"bgcolor_override"							"0 0 0 180"
+		"proportionaltoparent"						"1"
 		
 		if_comp
 		{
-			"wide"									"0"		
+			"xpos"									"cs-0.5"
+			"ypos"									"30"
 		}
 	}
-
-	"StopWatchImageCaptureTime"
-	{
-		"ControlName"								"ImagePanel"
-		"fieldName"									"StopWatchImageCaptureTime"
-		"wide"										"0"
-		"tall"										"0"
-		"visible"									"0"
-		"enabled"									"0"
-	}
-
+	
 	"ObjectiveStatusTimePanel"
 	{
 		"ControlName"								"EditablePanel"
@@ -48,38 +29,44 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"1"
-		"wide"										"175"
-		"tall"										"150"
+		"wide"										"29"
+		"tall"										"12"
 		"visible"									"0"
 		"enabled"									"1"
 		
-		if_comp
-		{
-			"xpos"									"70"
-			"ypos"									"35"
-			"wide"									"f0"			
-		}
+		"pin_to_sibling"							"Background"
+		"pin_corner_to_sibling"						"PIN_BOTTOMRIGHT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMRIGHT"
 
 		"TimePanelValue"
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"TimePanelValue"
-			"font"									"Size 16"
+			"font"									"Size 11"
 			"fgcolor"								"White"
-			"xpos"									"15"
-			"ypos"									"3"
+			"xpos"									"0"
+			"ypos"									"0"
 			"zpos"									"3"
-			"wide"									"48"
-			"tall"									"12"
+			"wide"									"f0"
+			"tall"									"f0"
 			"visible"								"1"
 			"enabled"								"1"
-			"textAlignment"							"east"
-			
-			if_comp
-			{
-				"font"								"Size 14"
-			}
-		}	
+			"proportionaltoparent"					"1"
+			"textAlignment"							"center"
+		}
+
+		"TimeBG"
+		{
+			"ControlName"							"EditablePanel"
+			"fieldName"								"TimeBG"
+			"xpos"									"9999"
+		}
+		"TeamBG"
+		{
+			"ControlName"							"CTFImagePanel"
+			"fieldName"								"TeamBG"
+			"xpos"									"9999"
+		}
 	}
 
 	"StopWatchScoreToBeat"
@@ -90,102 +77,97 @@
 		"fgcolor"									"White"
 		"labelText"									"%scoretobeat%"
 		"textAlignment"								"center"
-		"xpos"										"63"
+		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"4"
-		"wide"										"15"
-		"tall"										"12"
-		"autoResize"								"0"
-		"pinCorner"									"0"
+		"wide"										"16"
+		"tall"										"19"
 		"visible"									"0"
 		"enabled"									"1"
+		"paintbackground"							"1"
+		"paintbackgroundtype"						"0"
+		"bgcolor_override"							"0 0 0 180"
 		
-		if_comp
-		{
-			"xpos"									"136"
-			"ypos"									"40"
-			"font"									"Size 12"
-		}
+		"pin_to_sibling"							"Background"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 	
 	"StopWatchPointsLabel"
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"StopWatchPointsLabel"
-		"font"										"Size 16"
+		"font"										"Size 7"
 		"fgcolor"									"White"
 		"labelText"									"%pointslabel%"
-		"textAlignment"								"west"
-		"xpos"										"78"
+		"textAlignment"								"center"
+		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"4"
-		"wide"										"45"
-		"tall"										"12"
-		"autoResize"								"0"
-		"pinCorner"									"0"
+		"wide"										"29"
+		"tall"										"7"
 		"visible"									"1"
 		"enabled"									"1"
+		"AllCaps"									"1"
 		"wrap"										"0"
+		"paintbackground"							"1"
+		"paintbackgroundtype"						"0"
+		"bgcolor_override"							"0 0 0 180"
 		
-		if_comp
-		{
-			"xpos"									"150"
-			"ypos"									"40"
-			"font"									"Size 16"
-		}
+		"pin_to_sibling"							"Background"
+		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
 	}
 
 	"StopWatchLabel"
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"StopWatchLabel"
-		"font"										"default"
+		"font"										"Size 8"
 		"fgcolor"									"White"
 		"labelText"									"%stopwatchlabel%"
-		"textAlignment"								"west"
-		"xpos"										"13"
+		"textAlignment"								"center"
+		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"4"
-		"wide"										"125"
-		"tall"										"12"
-		"autoResize"								"0"
-		"pinCorner"									"0"
+		"wide"										"45"
+		"tall"										"19"
 		"visible"									"0"
 		"enabled"									"1"
 		"wrap"										"1"
+		"centerwrap"								"1"
 		
-		if_comp
-		{
-			"xpos"									"98"
-			"ypos"									"35"
-			"wide"									"f0"
-			"textAlignment"							"center"
-		}
+		"pin_to_sibling"							"Background"
 	}
 	
 	
 	
 	
 	
-	//////////////////////////////////REMOVED STUFF//////////////////////////////////
+	//REMOVED STUFF
 	
+	"HudStopWatchBG"
+	{
+		"ControlName"								"ImagePanel"
+		"fieldName"									"HudStopWatchBG"
+		"xpos"										"9999"
+	}
+	"StopWatchImageCaptureTime"
+	{
+		"ControlName"								"ImagePanel"
+		"fieldName"									"StopWatchImageCaptureTime"
+		"xpos"										"9999"
+	}
 	"HudStopWatchDescriptionBG"
 	{
 		"ControlName"								"ScalableImagePanel"
 		"fieldName"									"HudStopWatchDescriptionBG"
-		"wide"										"0"
-		"tall"										"0"
-		"visible"									"0"
-		"enabled"									"0"
+		"xpos"										"9999"
 	}
-
 	"StopWatchDescriptionLabel"
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"StopWatchDescriptionLabel"
-		"wide"										"0"
-		"tall"										"0"
-		"visible"									"0"
-		"enabled"									"0"
+		"xpos"										"9999"
 	}
 }

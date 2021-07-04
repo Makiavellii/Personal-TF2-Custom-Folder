@@ -138,7 +138,7 @@
 		"ControlName" 		"CExLabel"
 		"fieldName" 		"ServerTimeLimitLabel"
 		"xpos" 				"26" //26
-		"ypos" 				"2" //15
+		"ypos" 				"15" //15
 		"zpos" 				"3" //3
 		"wide" 				"50" //50
 		"tall"				"15" //15
@@ -149,7 +149,7 @@
 		"dulltext" 			"0"
 		"brighttext" 		"0"
 		"wrap" 				"0"
-		"font" 				"m0refont16" //m0refont12
+		"font" 				"Size 12" //m0refont12
 		"fgcolor"			"255 255 255 255"
 	}
 	
