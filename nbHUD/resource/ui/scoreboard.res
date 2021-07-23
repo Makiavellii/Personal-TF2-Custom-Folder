@@ -384,7 +384,7 @@
 			"ControlName"							"CExLabel"
 			"fieldName"								"KillsIcon"
 			"font"									"Symbols Scoreboard 12"
-			"fgColor"								"255 255 255 255"
+			"fgColor"								"Green"
 			"labelText"								":"
 			"textAlignment"							"center"
 			"textinsety"							"-1"
@@ -461,7 +461,7 @@
 			"pinCorner"								"0"
 			"visible"								"1"
 			"enabled"								"1"
-			"fgcolor"								"255 255 255 255"
+			"fgcolor"								"Green"
 			
 			if_mvm
 			{
@@ -497,7 +497,7 @@
 			"ControlName"							"CExLabel"
 			"fieldName"								"DeathsIcon"
 			"font"									"Symbols Scoreboard 12"
-			"fgColor"								"255 255 255 255"
+			"fgColor"								"Red"
 			"labelText"								"a"
 			"textAlignment"							"center"
 			"textinsety"							"-1"
@@ -574,7 +574,7 @@
 			"pinCorner"								"0"
 			"visible"								"1"
 			"enabled"								"1"
-			"fgcolor"								"255 255 255 255"
+			"fgcolor"								"Red"
 			
 			if_mvm
 			{
@@ -609,7 +609,7 @@
 			"ControlName"							"CExLabel"
 			"fieldName"								"DamageIcon"
 			"font"									"Symbols Scoreboard 12"
-			"fgColor"								"255 255 255 255"
+			"fgColor"								"Orange"
 			"labelText"								"="
 			"textAlignment"							"center"
 			"textinsety"							"-1"
@@ -684,7 +684,7 @@
 			"pinCorner"								"0"
 			"visible"								"1"
 			"enabled"								"1"
-			"fgcolor"								"255 255 255 255"
+			"fgcolor"								"Orange"
 		
 			if_mvm
 			{
@@ -720,7 +720,7 @@
 			"ControlName"							"CExLabel"
 			"fieldName"								"HealIcon"
 			"font"									"Symbols Scoreboard 12"
-			"fgColor"								"255 255 255 255"
+			"fgColor"								"255 128 192 255"
 			"labelText"								"n"
 			"textAlignment"							"center"
 			"textinsety"							"-1"
@@ -796,7 +796,7 @@
 			"pinCorner"								"0"
 			"visible"								"1"
 			"enabled"								"1"
-			"fgcolor"								"255 255 255 255"
+			"fgcolor"								"255 128 192 255"
 		
 			if_mvm
 			{

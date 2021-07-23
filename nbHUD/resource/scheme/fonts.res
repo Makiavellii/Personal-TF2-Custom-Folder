@@ -2,7 +2,6 @@ Scheme
 {
 	Fonts
 	{
-
 		"MatchPlayerName"
 		{
 			"1"

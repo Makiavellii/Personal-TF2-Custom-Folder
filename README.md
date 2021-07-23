@@ -24,10 +24,10 @@ HUD is a modified version of a HUD that nubbi was making.
 # Settings
 **MOUSE** - Glorious Model O-  
 **MOUSEPAD** - SteelSeries QcK+   
-**DPI** - 800  
+**DPI** - 500  
 **POLLING RATE** - 500hz  
 **WINDOWS SENSITIVITY** - 6/11  
-**IN GAME SENSITIVITY** - 1.69  
-**EDPI** - 1,352 (dpi * ingame)  
-**DISTANCE** - 30.80cm/360 | 12.1in/360  
+**IN GAME SENSITIVITY** - 2.7  
+**EDPI** - 1,350 (dpi * ingame)  
+**DISTANCE** - 30.8cm/360 | 12.1in/360  
 **ZOOM SENSITIVITY RATIO** - 1  
