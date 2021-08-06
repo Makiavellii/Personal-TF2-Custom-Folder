@@ -29,5 +29,5 @@ HUD is KBN HUD.
 **WINDOWS SENSITIVITY** - 6/11  
 **IN GAME SENSITIVITY** - 1.7  
 **EDPI** - 1,600 (dpi * ingame)  
-**DISTANCE** - 15.9cm/360 | 10.2in/360  
+**DISTANCE** - 25.9cm/360 | 10.2in/360  
 **ZOOM SENSITIVITY RATIO** - 1  
